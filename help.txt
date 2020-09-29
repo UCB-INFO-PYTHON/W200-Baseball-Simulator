@@ -1,0 +1,27 @@
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+COMMANDS:
+
+    [s] = swing at the incoming pitch
+    [w] = watch, do not swing at, the pitch
+    [h] = access the help screen for command definitions and more details
+    [q] = quit the game in progress
+
+PICKING A TEAM:
+Enter a team name without the city or location identifier. For example, the
+Boston Red Sox should be entered as 'Red Sox'. The Chicago Cubs can be
+entered as 'cubs'. If there is a typo, the game will automatically assign you
+a team.
+
+The possible teams are - Angels, Astros, Athletics, Blue Jays, Braves,
+Brewers, Cardinals, Cubs, Diamondbacks, Dodgers, Giants, Indians, Mariners,
+Marlins, Mets, Nationals, Orioles, Padres, Phillies, Pirates, Rangers, Rays,
+Reds, Red Sox, Rockies, Royals, Tigers, Twins, White Sox, Yankees.
+
+CHOOSING THE BATTING ORDER:
+Enter a set of numbers (corresponding to each player) separated by commas and
+no spaces. For example, '1,4,7,10,11,8,2'.
+
+SOURCES:
+Batter and pitcher odds are from The Outcome Machine by Jonah Pemstein.
+https://community.fangraphs.com/the-outcome-machine-predicting-at-bats-before-they-happen/
+___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___

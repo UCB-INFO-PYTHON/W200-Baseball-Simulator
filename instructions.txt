@@ -1,0 +1,30 @@
+
+                      ************************************
+                      * Welcome to Blindfolded Baseball! *
+                      ************************************
+
+The year is 2014 and you are a GM in the MLB. After a snide remark from your
+team owner that the players had a better chance getting a hit with their eyes
+closed, you decide to test the theory.
+
+In this game, you'll give each batter the sign to swing or watch the next
+pitch, without seeing it first. The player's past plate appearances will
+determine whether they swing and miss, hit into a play, or maybe even get a
+home run. Each player's odds are based on their plate appearances from 2003 to
+2013.
+
+The commands are:
+
+    [s] = swing at the incoming pitch
+    [w] = watch, do not swing at, the pitch
+    [h] = access the help screen for definitions, suggestions & details
+    [q] = quit the game in progress
+
+As the home team, you'll only play the bottom of each inning. Basic rules apply
+(3 strikes is a strike out, 4 balls is a walk, 3 outs an inning, etc.).
+Batting orders use dodgeball rules -- last out goes to the end of the line.
+
+You're almost ready, but before the first pitch is thrown you need to make
+some coaching decisions.
+
+First...
