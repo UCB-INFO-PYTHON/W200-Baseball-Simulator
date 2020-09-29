@@ -4,7 +4,7 @@ Author: Amanda Smith\
 Semester: Summer 2020\
 Contact: amandasmith@ischool.berkeley.edu
 
-**The game:**\ 
+**The game:**\
 You’re the general manager for an MLB team, and it's not going well. Fans are losing hope and you are close to losing your job. The owner makes a snide remark that the team would probably do better if they batted while blindfolded. You decide it’s worth a shot. In this game, users will play as the MLB team of their choice and the goal is to score as many runs as possible. However, they have to bat while “blindfolded,” meaning the user will choose whether the player swings at or watches the pitch before it is thrown. Then, odds will determine whether it was a successful choice.
 
 **File Structure:**\
